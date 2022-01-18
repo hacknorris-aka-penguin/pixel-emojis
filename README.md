@@ -4,13 +4,13 @@ yes, page your now looking at doesn't contain any code...
 
 ... but i think it doesn't mean that it can't be it that place 
 
-![](/untitled_12.png)
+![](/imgs/faces/proud.png)
 
 and yes :
 - they're 25/20px (all)
-- they're all made in funny retro style ![](/faces/sick.png)
+- they're all made in funny retro style ![](/imgs/faces/sick.png)
 - some of them are even in deep dark style (work in progress, only a few)...
-- similar to gamejolt emojis but... less eye-paining ( ![](/shades_and_colors/green.png) vs ![](/shades_and_colors/yellow.png) )
+- similar to gamejolt emojis but... less eye-paining ( ![](/imgs/shades_and_colors/green.png) vs ![](/imgs/shades_and_colors/yellow.png) )
 
 and a small 'table of contents' :
 
@@ -41,7 +41,7 @@ my task list for ths project:
 how they look like:
 | | |
 |---|---|
-| ![](/faces/proud.png) | ![](/faces/hug.png) 
-| ![](/faces/sick.png) | ![](/faces/centered-small-face.png)
+| ![](/imgs/faces/proud.png) | ![](/imgs/faces/hug.png) 
+| ![](/imgs/faces/sick.png) | ![](/imgs/faces/centered-small-face.png)
 
 as you see - it's 'work in progress' so PR's and issues can help me in fully creating that faster ![](/imgs/faces/weird.png)
