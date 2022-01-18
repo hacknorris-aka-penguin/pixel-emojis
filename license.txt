@@ -1,0 +1,6 @@
+The files in this repository are the combined work of the Game Jolt authors and Hacknorris, who has modified them. You are free to modify and redistribute these emoji yourself, provided you comply simultaneously with both licenses below:
+
+    the MIT license, under which Game Jolt is offered, and also
+    the Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0, under which Hack Norris's modifications are offered.
+
+If you cannot satisfy both licenses simultaneously, you may not redistribute them and/or your modifications
