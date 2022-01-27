@@ -21,6 +21,7 @@ and a small 'table of contents' :
 |colors: | 6 (black, white, pink, blue, yellow and green)
 |shades: | i think all are made (16 of them )
 |numbers: | all, from 0-9
+|letters: | all uppercase (26)
 |dots: | i think i made 20 ...
 |other: | a bunch - they're many so i didn't yet counted
 
